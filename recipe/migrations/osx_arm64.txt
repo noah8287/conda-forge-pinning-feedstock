@@ -713,4 +713,5 @@ cdo
 python-cdo
 python-magic
 httpx
-tesserocr
+tesseroc
+prophet
